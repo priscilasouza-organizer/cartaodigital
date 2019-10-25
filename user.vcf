@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Souza;Priscila;;;
+FN: Priscila Souza 
+ORG:Personal Organizer;
+EMAIL;type=INTERNET;type=WORK;type=pref:pri-lobato@hotmail.com
+TEL;type=WORK;type=VOICE:96 99136 1342
+item1.ADR;type=WORK;type=pref:;;Macapá, AP
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.instagram.com/priscilasouza.organizer
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
